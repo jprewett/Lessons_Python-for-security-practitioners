@@ -34,4 +34,4 @@ PART 4
 
 - When corrected, the above code block prints a float data type with multiple digits following the decimal point.
 - However, following CVSS scoring methodology, only one digit should follow the decimal point.  
-- Research Python's round() method and apply it to the above code block so that only one digit remains after the decimal point.  
+- Research Python's round() method and apply it to the above code block such that only one digit remains after the decimal point.  
