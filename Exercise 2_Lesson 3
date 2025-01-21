@@ -1,0 +1,16 @@
+PART 1
+
+Create the following variables:
+
+prefix = 'CVE'
+delimiter = '-'
+year = '2025'
+identifier = '21333'
+
+- Concatenate all the above variables into a final variable name cve with the final result being CVE-2025-21333
+- Print the resulting data stype
+
+
+PART 2
+
+Remove the quotation marks from 2025 and/or 21333.  What happens?  Why?
