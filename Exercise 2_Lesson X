@@ -1,4 +1,4 @@
-Assignment:
+Exercise:
 
 1. Create five well-named variables/memory locations of the type string.  To each variable, assign one of the following strings: Critical, High, Medium, Low, and Informational
 2. Create a well-named variable/memory location of the type float and assign any number between 0.0 and 10.0
