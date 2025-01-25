@@ -13,7 +13,7 @@ cves_impacting_chrome =  ['CVE-2022-4440', 'CVE-2025-0438', 'CVE-2024-8636', 'CV
 PART 2
 
 - Using a nested for loop, iterate over the below nested list.
-- In the first loop (i.e., the outer loop), print the each iteration of the loop.  What is the resulting data type?
+- In the first loop (i.e., the outer loop), print each iteration of the loop.  What is the resulting data type?
 - In the second loop (i.e., the inner loop), print the second-to-the-last element (i.e., Attack Complexity) of the list.  HINT: Rely on list indexing!
 
 cves_impacting_chrome = [['CVE-2022-4440', 'Network', 'Low', 'None'],
