@@ -6,3 +6,7 @@ Install Python (see https://www.python.org/)
 PART 2
 
 Install PyCharm Community Edition (see https://www.jetbrains.com/pycharm/)
+NOTE: PyCharm is an Integrated Development Environment (IDE) purpose built for Python.  
+      Although Part 1 (above) is all that's absolutely needed for writing and practicing Python, 
+      IDEs (in general) are worthwhile because they offer additional features such as code editing, 
+      debugging, syntax highlighting, project management, and version control.
