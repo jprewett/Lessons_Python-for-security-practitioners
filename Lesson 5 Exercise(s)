@@ -14,7 +14,7 @@ cves_impacting_chrome = ('CVE-2022-4440', 'CVE-2025-0438', 'CVE-2024-8636', 'CVE
 
 PART 2
 
-- The following code block has a couple problematic issues, including an infinite loop.  Provide all necessary corrections to 1) get the code block to an executable state and 2) alleviate the infinite loop:
+- The following code block has a couple problematic issues.  Provide all necessary corrections to 1) get the code block to an executable state and 2) alleviate the infinite loop:
 
 all_cve_severity_scores = (8.3, 'TBD', 8.8, 6.5, 4.3, 'TBD', 6.3, 6.3, 8.8, 8.8, 6.5)
 while count < all_cve_severity_scores:
