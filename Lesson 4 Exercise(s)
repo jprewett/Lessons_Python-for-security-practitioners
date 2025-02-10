@@ -15,7 +15,7 @@ PART 2
 - Using a nested for loop, iterate over the below nested list.
 - In the first loop (i.e., the outer loop), print each iteration of the loop.  What is the resulting data type?
 - In the second loop (i.e., the inner loop), print each element of the embedded lists
-- Indexing practice: Print only the first/zero-th element (i.e., CVE Identifier) of each embedded list
+- Indexing practice: Print only the first/zero-th element (i.e., CVE Identifier) of each embedded list.  HINT: There's no need for an inner loop.
 
 cves_impacting_chrome = [['CVE-2022-4440', 'Network', 'Low', 'None'],
                          ['CVE-2025-0438', 'Network', 'Low', 'None'],
